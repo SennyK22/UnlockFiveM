@@ -1,4 +1,6 @@
 # Tuto Pour Installer l'UnlockerFXAP
+⚠️ Il faut avoir l'asset sur SA CLÉ KEYMASTER !
+
 
 ## 1) Installation du Décrypteur
 - Télécharger le Décrypteur → [UnlockFiveM.rar](https://github.com/o-lumix/UnlockFiveM/releases/latest/download/UnlockFiveM.rar)
