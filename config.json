@@ -1,0 +1,17 @@
+{
+    "token": "TOKENBOT",
+    "guild": "IDSERVEUR",
+    "prefix": "&",
+
+    "discord": {
+        "name": "EscrowUnlocker"
+    },
+
+    "roles": {
+        "user": "IDROLE"
+    },
+
+    "channels": {
+        "cfx": "IDSALON"
+    }
+}
