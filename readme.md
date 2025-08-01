@@ -4,7 +4,7 @@
 
 
 ## 1) Installation du Décrypteur
-- Télécharger le Décrypteur → [UnlockFiveM.rar](https://github.com/nyxaroo/UnlockFiveM/releases/latest/download/UnlockFiveM.rar)
+- Télécharger le Décrypteur → [UnlockFiveM.rar](https://github.com/nyxaroo/UnlockFiveM/archive/refs/tags/2.0.0.zip)
 - Extraire les fichiers du `.rar` sur dans votre `C:\`.
 
 ## 2) Configuration des fichiers
@@ -51,5 +51,6 @@ Voilà le lien : https://pastebin.com/7c65XcJ1 et au cas ou il saute je vous don
 # Installation en vidéo, flemme de le tout montrer
 
 https://github.com/user-attachments/assets/833d0432-bdd3-4d2b-9886-0d8cc2afca07
+
 
 
